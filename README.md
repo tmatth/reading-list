@@ -175,6 +175,12 @@
      
      A gentle introduction to video technology, although it's aimed at software developers / engineers, we want to make it easy for anyone to learn.
      
+ - **Which video network streaming protocol should I use?**
+ 
+      Open source stacks such as GStreamer, ffmpeg and UPipe now implement a large number of different ways to stream audio & video over a network. Just to name a few, there are RTSP, SRT, RIST, WebRTC, HLS, DASH, AES67, SmoothStreaming, RTMP! 
+      
+      Talk by Olivier Crête at FOSDEM 2020: https://www.youtube.com/watch?v=D39st5UmGh0
+     
 **[Index](#index)**
 
 
